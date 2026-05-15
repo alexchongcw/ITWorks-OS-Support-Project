@@ -1,6 +1,8 @@
 # ITWorks-OS-Support-Project
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
+**ITWorks Technical Analyst Project**
+
 ## **📌 Project Overview** ##
 
 This project simulates the role of a Technical Analyst at ITWorks, where I was responsible for analysing organisational computer systems, diagnosing issues, and recommending hardware/software solutions according to ITWorks policies and procedures.
