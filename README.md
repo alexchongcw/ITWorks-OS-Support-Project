@@ -58,7 +58,7 @@ This project demonstrates my ability to work within organisational frameworks an
 - Windows OS (PC1 & PC2 virtual machines)
 - VMWare Workstation
 - System Information Tools (msinfo32, Settings, Device Manager)
-- Microsoft Excel / Markdown for quote comparison
+- Microsoft Word / Markdown for quote comparison
 - ITWorks Policies & Systems Administration Manual
 - Troubleshooting methodologies (Six‑Step Method)
 
