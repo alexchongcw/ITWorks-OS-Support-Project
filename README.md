@@ -85,6 +85,20 @@ Part 3 simulates handling a high‑priority incident for staff member Ivana Trum
 - Ticket screenshot (I‑000737)
 - Email/report to Helpdesk Manager (included in Word document)
 
+## **🛠️ Technologies Used** ##
+**Operating Systems & Platforms**
+- Windows 10 Pro (ITWorks PC1 & PC2 virtual machines)
+- ITWorks Service Management System (for tickets R‑000733 and I‑000737)
+
+**Applications & Tools**
+- Mozilla Firefox (installation & security configuration)
+- Windows Security (antivirus, firewall, threat scans)
+- Windows Update
+- Task Manager & Event Viewer
+- Control Panel & Settings
+- System Information (msinfo32)
+- Command Prompt / PowerShell (basic diagnostics)
+
 ## **🧠 Learning Reflection** ##
 This project significantly strengthened my capability to deliver end‑to‑end technical support within organisational policies and real‑world service expectations. Across the three tasks, I developed confidence in analysing system configurations, identifying performance issues, and preparing structured technical documentation. I gained practical experience installing and configuring applications according to user requirements, applying OS support procedures, and communicating outcomes professionally.
 
