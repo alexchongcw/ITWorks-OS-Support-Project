@@ -1,8 +1,19 @@
 # ITWorks-OS-Support-Project
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-## **ITWorks Technical Analyst Project** ##
-This project demonstrates my ability to work within organisational frameworks and deliver technical skills and documentation aligned with industry expectations.
+## **Support Operating System Users and Troubleshoot Application** ##
+This repository showcases a complete end‑to‑end technical support project completed as part of the Support Operating System Users and Troubleshoot Application unit. The project simulates real ITWorks workplace scenarios and demonstrates my ability to analyse systems, install and configure applications, troubleshoot OS and software issues, apply organisational security policies, and communicate effectively with users and management.
+
+The assessment is divided into three major parts:
+
+- **Part 1 — Preparation Report:** System analysis of PC1 and PC2, hardware/software evaluation, upgrade recommendations, and documentation aligned with ITWorks policies.
+
+- **Part 2 — Application Installation & User Support:** Responding to a low‑priority service request by installing and securing Mozilla Firefox, completing OS support procedures, and communicating the outcome to the user.
+
+- **Part 3 — Troubleshooting, Security & SLA Evaluation:** Handling a high‑priority incident using the Six‑Step Troubleshooting Methodology, applying OS security configurations, performing maintenance tasks, and evaluating SLA compliance.
+
+This repository contains all final deliverables, structured documentation, and supporting evidence, demonstrating my capability to perform technical analysis, provide user support, troubleshoot issues, and follow organisational procedures in a professional IT environment.
+
 
 ## **🧩 Part 1 — Preparation Report** ##
 
