@@ -81,7 +81,7 @@ Part 3 simulates handling a high‑priority incident for staff member Ivana Trum
 - Professional communication
 
 **Deliverables**
-- Troubleshooting‑and‑Security.docx
+- Troubleshooting OS and Application.docx
 - Ticket screenshot (I‑000737)
 - Email/report to Helpdesk Manager (included in Word document)
 
