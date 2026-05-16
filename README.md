@@ -2,79 +2,80 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## **ITWorks Technical Analyst Project** ##
+This project demonstrates my ability to work within organisational frameworks and deliver technical skills and documentation aligned with industry expectations.
 
-## **📌 Project Overview** ##
+## **🧩 Part 1 — Preparation Report** ##
 
-This project simulates the role of a Technical Analyst at ITWorks, where I was responsible for analysing organisational computer systems, diagnosing issues, and recommending hardware/software solutions according to ITWorks policies and procedures.
+**Overview**
+Part 1 focuses on analysing two ITWorks computer systems (PC1 and PC2) to determine their current hardware and software configurations, identify issues, and recommend upgrade options. This work was completed using the official TAFE SA Preparation Report template.
 
-
-The project required me to:
-- Analyse OS and hardware configurations for PC1 and PC2
-- Document intended OS support
-- Research and recommend solutions to user OS issues
-- Apply organisational security requirements
-- Provide hardware upgrade options with three quotes
-- Prepare a formal report using the ITWorks template
-
-This repository documents my full workflow, analysis, evidence, and recommendations.
-
-## **🖥️ Scenario Summary** ##
-As part of the ITWorks Technical Analyst team, I was assigned to:
-- Assess two computer systems (PC1 and PC2)
-- Gather asset information following:
-  - **Policy ID 176 – Software & Hardware Management (Section 5.3 ICT Asset Register)**
-  - **Policy ID 187 – Hardware & Software Maintenance (Section 6 Audit Controls)**
-- Diagnose hardware and software faults
-- Recommend upgrade or replacement options
-- Provide user support and troubleshooting
-- Ensure compliance with ITWorks security policies
-
-This project demonstrates my ability to work within organisational frameworks and deliver technical documentation aligned with industry expectations.
-
-## **🔍 Key Tasks Completed** ##
-**1. Analyse OS According to Organisational Procedures**
+**Key Activities**
 - Collected system information for PC1 and PC2
-- Compared configurations against ITWorks standards
-- Identified outdated hardware and performance bottlenecks
+- Analysed hardware and software against ITWorks policies
+- Identified performance issues and outdated components
+- Recommended hardware upgrades with three vendor quotes
+- Documented findings in a formal organisational report
 
-**2. Document Intended OS Support**
-- Mapped user requirements to OS capabilities
-- Documented support procedures based on ITWorks SAM
-- Ensured compliance with communication protocols
-
-**3. Research & Recommend Solutions**
-- Identified hardware upgrade paths
-- Prepared three vendor quotes
-- Compared cost, performance, and compatibility
-- Recommended the most cost‑effective upgrade
-
-**4. Apply Security Requirements**
-- Reviewed policies:
-  - User Access Control
-  - Malicious Software Protection
-  - Hardware & Software Maintenance
-- Ensured OS settings aligned with organisational security standards
-
-
-## **🛠️ Tools & Technologies Used** ##
-- Windows OS (PC1 & PC2 virtual machines)
-- VMWare Workstation
-- System Information Tools (msinfo32, Settings, Device Manager)
-- Microsoft Word / Markdown for quote comparison
-- ITWorks Policies & Systems Administration Manual
-- Troubleshooting methodologies (Six‑Step Method)
-
-
-## **📈 Skills Demonstrated** ##
-- OS analysis and documentation
-- Hardware/software troubleshooting
-- Technical reporting
-- Policy‑aligned decision making
+**Skills Demonstrated**
+- OS and hardware analysis
+- Technical documentation
 - Research and vendor comparison
-- Security compliance
+- Policy‑aligned decision making
+
+**Deliverables**
+- **Preparation‑Report.docx**
+
+## **🧩 Part 2 — Application Installation & User Support** ##
+
+**Overview**
+Part 2 simulates responding to a low‑priority service request from ITWorks staff member Jim Strutz, who requested Mozilla Firefox installation with enhanced security settings. The task required following organisational procedures and communicating the outcome professionally.
+
+**Key Activities**
+- Reviewed the service request ticket (R‑000733)
+- Installed Mozilla Firefox on PC1
+- Applied security configurations for safe browsing
+- Verified OS support procedures were completed
+- Composed a professional email to the user
+
+**Skills Demonstrated**
+- Application installation & configuration
+- OS support procedures
+- Task planning and prioritisation
 - Professional communication
 
+**Deliverables**
+- Application‑Installation.docx
+- Ticket screenshot (R‑000733)
+- Email to user (included in Word document)
+
+## **🧩 Part 3 — Troubleshooting, Security & SLA Evaluation** ##
+
+**Overview**
+Part 3 simulates handling a high‑priority incident for staff member Ivana Trump, who reported multiple system issues preventing her from working. The task required applying the Six‑Step Troubleshooting Methodology, configuring OS security, performing maintenance, and evaluating SLA compliance.
+
+**Key Activities**
+- Reviewed incident ticket (I‑000737)
+- Conducted user interview to determine support requirements
+- Performed OS and application troubleshooting
+- Applied security configurations according to ITWorks policy
+- Completed diagnostic and preventative maintenance
+- Evaluated SLA compliance and recommended improvements
+- Composed a report to the Helpdesk Manager
+
+**Skills Demonstrated**
+- Troubleshooting methodology
+- OS security configuration
+- Diagnostic & preventative maintenance
+- SLA evaluation and reporting
+- Professional communication
+
+**Deliverables**
+- Troubleshooting‑and‑Security.docx
+- Ticket screenshot (I‑000737)
+- Email/report to Helpdesk Manager (included in Word document)
 
 ## **🧠 Learning Reflection** ##
-This project strengthened my ability to work within organisational policies while performing technical analysis. I gained hands‑on experience diagnosing system issues, evaluating upgrade options, and preparing professional documentation. It also improved my confidence in applying structured troubleshooting and communicating findings clearly.
+This project significantly strengthened my capability to deliver end‑to‑end technical support within organisational policies and real‑world service expectations. Across the three tasks, I developed confidence in analysing system configurations, identifying performance issues, and preparing structured technical documentation. I gained practical experience installing and configuring applications according to user requirements, applying OS support procedures, and communicating outcomes professionally.
+
+Working through a high‑priority incident deepened my troubleshooting skills, especially using the Six‑Step Troubleshooting Methodology to diagnose and resolve complex OS and application issues. I also improved my understanding of organisational security requirements, preventative maintenance practices, and SLA compliance. Overall, this project enhanced my ability to plan, prioritise, and execute technical tasks while maintaining clear communication with users and management.
 
