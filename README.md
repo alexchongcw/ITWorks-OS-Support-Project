@@ -59,7 +59,7 @@ Part 2 simulates responding to a low‑priority service request from ITWorks sta
 - Ticket screenshot (R‑000733)
 - Email to user (included in Word document)
 
-## **🧩 Part 3 — Troubleshooting, Security & SLA Evaluation** ##
+## **🧩 Part 3 — Troubleshooting OS and Application** ##
 
 **Overview**
 Part 3 simulates handling a high‑priority incident for staff member Ivana Trump, who reported multiple system issues preventing her from working. The task required applying the Six‑Step Troubleshooting Methodology, configuring OS security, performing maintenance, and evaluating SLA compliance.
