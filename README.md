@@ -104,3 +104,5 @@ This project significantly strengthened my capability to deliver end‑to‑end 
 
 Working through a high‑priority incident deepened my troubleshooting skills, especially using the Six‑Step Troubleshooting Methodology to diagnose and resolve complex OS and application issues. I also improved my understanding of organisational security requirements, preventative maintenance practices, and SLA compliance. Overall, this project enhanced my ability to plan, prioritise, and execute technical tasks while maintaining clear communication with users and management.
 
+## **🔗 Notion Portfolio Page** ##
+https://dour-death-b9f.notion.site/ITWorks-OS-Support-Troubleshoot-Application-Project-3620308263c3808a86fbecb06eafac80?source=copy_link
